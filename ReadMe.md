@@ -1,4 +1,5 @@
-你可以在https://github.com/big-maomi/GS-GCL找到你需要的代码，只是改了个名字而已
+重定向[GS-GCL](https://github.com/big-maomi/GS-GCL)
+找到你需要的代码，只是改了个名字而已
 
 #### 模型编写
 
